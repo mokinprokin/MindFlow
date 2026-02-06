@@ -1,0 +1,15 @@
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+*.pyc
+__pycache__/
+*.db
+*.sqlite3
+src/data/planner.db
+.env
